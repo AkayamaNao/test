@@ -1,1 +1,1 @@
-web: echo "aaaaaaaaaaaaaaaaaaaaaaa"
+web: gunicorn app:app
